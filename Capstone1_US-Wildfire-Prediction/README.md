@@ -1,2 +1,2 @@
-<h6> US Wildfire Prediction </h6>
+<h1> US Wildfire Prediction </h1>
 
